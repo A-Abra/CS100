@@ -1,1 +1,1 @@
-# CS100
+Introduction to programming in Python language
