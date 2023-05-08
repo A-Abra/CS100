@@ -1,1 +1,2 @@
-Introduction to programming in Python language
+# CS100 = Roadmap to Computing
+An introduction to programming and problem solving skills using Python or other very high level language. Topics include basic strategies for problem solving, constructs that control the flow of execution of a program and the use of high level data types such as lists, strings and dictionaries in problem representation. The course also presents an overview of selected topics in computing, such as networking and databases.
